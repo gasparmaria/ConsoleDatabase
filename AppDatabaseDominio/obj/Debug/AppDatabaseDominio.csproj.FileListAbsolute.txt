@@ -1,6 +1,5 @@
 C:\Users\3etimds\source\repos\ConsoleDatabase\AppDatabaseDominio\bin\Debug\AppDatabaseDominio.dll
 C:\Users\3etimds\source\repos\ConsoleDatabase\AppDatabaseDominio\bin\Debug\AppDatabaseDominio.pdb
-C:\Users\3etimds\source\repos\ConsoleDatabase\AppDatabaseDominio\obj\Debug\AppDatabaseDominio.csproj.AssemblyReference.cache
 C:\Users\3etimds\source\repos\ConsoleDatabase\AppDatabaseDominio\obj\Debug\AppDatabaseDominio.csproj.CoreCompileInputs.cache
 C:\Users\3etimds\source\repos\ConsoleDatabase\AppDatabaseDominio\obj\Debug\AppDatabaseDominio.dll
 C:\Users\3etimds\source\repos\ConsoleDatabase\AppDatabaseDominio\obj\Debug\AppDatabaseDominio.pdb

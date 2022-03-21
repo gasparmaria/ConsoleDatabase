@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleDatabase
+namespace AppDatabaseDominio
 {
     public class Usuario
     {

@@ -3,7 +3,7 @@ using System;
 using System.Configuration;
 using System.Data;
 
-namespace ConsoleDatabase
+namespace AppDatabaseADO
 {
     public class Database : IDisposable
     {
